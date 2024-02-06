@@ -1,0 +1,17 @@
+/* stylesheet */
+
+body {
+    background-color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.main {
+    text-align: center;
+    background-color: rgb(252, 124, 238);
+    font-weight: bolder;
+}
+
+.recipeList {
+    text-align: center;
+    background-color: rgb(252, 124, 238)
+}
