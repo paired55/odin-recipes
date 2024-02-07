@@ -33,6 +33,6 @@ li {
 .pic {
     margin: 10px auto;
     display: block;
-    width: 25vw;
-    height: auto;
+    height: 40vh;
+    width: auto;
 }
