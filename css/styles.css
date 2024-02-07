@@ -31,4 +31,6 @@ li {
 .pic {
     margin: 10px auto;
     display: block;
+    width: 25%;
+    height: auto;
 }
